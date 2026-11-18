@@ -21,4 +21,4 @@ The controller operates as a **Moore Finite State Machine (FSM)** cycling contin
 2. Select **Icarus Verilog** as the simulator in the left panel and check the **"Open EPWave after run"** option.
 3. Click **Run** to compile, simulate, and view the output timing waveforms in **EPWave**.
  ## Simulation Output
-![Simulation Waveform](IMG-20261118-WA0019.jpg) 
+![Simulation Waveform](IMG-20261118-WA0019.jpg)
